@@ -4,7 +4,7 @@
 
 resource "google_compute_instance" "my_instance" { 
 
-  name         = "my-vm-instance" 
+  name         = "my-vm-instance1" 
 
   machine_type = "n1-standard-1" 
 
