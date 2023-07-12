@@ -1,8 +1,7 @@
-
 terraform {
   /*required_providers {
     google = {
-      source = "hashicorp/google"
+      source = "./instance"
       version = "4.51.0"
     }
   }
