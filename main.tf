@@ -1,4 +1,3 @@
-
 terraform {
   /*required_providers {
     google = {
@@ -9,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-  credentials = file("C:/Temp/swati-388614-0887186b2781.json")
+  credentials = file("swati-388614-0887186b2781.json")
 
   project = "swati-388614"
   region  = "us-central1"
